@@ -1,0 +1,12 @@
+diff --git a/index.html b/index.html
+index d1c155b..a82c893 100644
+--- a/index.html
++++ b/index.html
+@@ -19,6 +19,6 @@ p{ font-size: 50px; font-family: Arial;}
+ <h1><img src="images/pixelonion@2x.png" width="832" height="104" alt="Pixel Onion" /></h1>
+ <h1><img src="images/pixelonion@1x.png" width="416" height="52" /></h1>
+ <p>Hello World! Hellow World 2</p>
+-
++<h2>Hello this is development branch</h2>
+ </body>
+ </html>

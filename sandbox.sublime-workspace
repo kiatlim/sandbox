@@ -1,0 +1,298 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 207.0,
+		"selected_items":
+		[
+			[
+				"Snippet: php",
+				"Snippet: <?php … ?>"
+			],
+			[
+				"Snippet: ",
+				"Snippet: <?php … ?>"
+			],
+			[
+				"",
+				"File: Close All"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/Kiat/Sites/kiat.sg/sites/all/themes/BaseBuildingBlocks/BaseBuildingBlocks.info",
+		"/Users/Kiat/Downloads/FortAwesome-Font-Awesome-ee55c85/README.md",
+		"/Users/Kiat/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/Kiat/Sites/sandbox/index.php",
+		"/Users/Kiat/Sites/sandbox/sandbox.sublime-workspace",
+		"/Users/Kiat/Sites/sandbox/karen.html",
+		"/Volumes/Cafe Iguana Staging/sites/all/themes/adaptivetheme/at_iguana/css/global.styles.css",
+		"/Volumes/Cafe Iguana Staging/sites/all/themes/adaptivetheme/at_iguana/css/responsive.custom.css",
+		"/Volumes/Cafe Iguana Staging/sites/all/themes/adaptivetheme/at_iguana/css/print.css",
+		"/Volumes/Cafe Iguana Staging/sites/all/themes/adaptivetheme/at_iguana/css/responsive.smartphone.portrait.css",
+		"/Volumes/Cafe Iguana Staging/sites/all/themes/adaptivetheme/at_iguana/css/global.base.css",
+		"/Users/Kiat/Library/Caches/Cleanup At Startup/Transmit/B3DF1403-85A7-44D2-87E3-98BF17ABFC01/settings.php",
+		"/Users/Kiat/Library/Caches/Cleanup At Startup/Transmit/7A492E26-6FA6-4051-9CB2-833CD8CF23C0/.htaccess",
+		"/Users/Kiat/Library/Caches/Cleanup At Startup/Transmit/FDF6399D-A6D5-4A39-8735-0A235BAEEDA7/.htaccess",
+		"/Users/Kiat/Library/Caches/Cleanup At Startup/Transmit/C9A4473C-3363-4F90-8264-045C75F13E88/.htaccess",
+		"/Users/Kiat/Library/Caches/Cleanup At Startup/Transmit/7A1E4FB2-8ACE-43CB-8330-B032CAF5DEC3/settings.php",
+		"/Users/Kiat/Library/Caches/Cleanup At Startup/Transmit/1085BBC7-0952-431C-AAE7-7B55AFDEF376/settings.php",
+		"/Users/Kiat/Sites/acebureau.org/sites/default/settings.php",
+		"/Users/Kiat/Sites/sandbox/index.html",
+		"/Users/Kiat/Downloads/CSS Zen Garden Sample/zengarden-sample.html",
+		"/Users/Kiat/Downloads/nie euf/site.css",
+		"/Users/Kiat/Library/Caches/Cleanup At Startup/Transmit/F1CCC702-5187-49BC-AB0F-EF4155E153A6/settings.php",
+		"/Users/Kiat/Library/Caches/Cleanup At Startup/Transmit/2682E85F-9B80-4FA2-BE65-12E3DE609BB9/context.php",
+		"/Users/Kiat/Library/Caches/Cleanup At Startup/Transmit/7DB62D43-656C-4292-B6B3-17F8614EAD2A/index.php",
+		"/Users/Kiat/Library/Caches/Cleanup At Startup/Transmit/E45E13BC-3489-48B8-86B4-3FA11779C690/head.php",
+		"/Users/Kiat/Library/Caches/Cleanup At Startup/Transmit/DF638471-E7BF-4788-AEB0-8292DD771E5F/default.settings.php",
+		"/Users/Kiat/.bash_profile",
+		"/Users/Kiat/VirtualBox VMs/Windows 7/Windows 7.vbox-prev",
+		"/private/etc/hosts",
+		"/Volumes/Kiat FLEX/Backups.backupdb/Kiat’s MacBook Air/2012-08-15-163811/Macintosh HD/private/etc/hosts",
+		"/Users/Kiat/Library/Caches/Cleanup At Startup/Transmit/BC04B8D0-803C-4F4A-8F1A-362988236E9B/general.js",
+		"/Users/Kiat/Sites/cafeiguana.com/sites/all/themes/adaptivetheme/at_core/templates/page--full-width-wrappers.tpl.php",
+		"/Users/Kiat/Downloads/less-1.3.0.min.js",
+		"/Users/Kiat/Dropbox/SMU NextWeb/HTML/addthis_smu.html",
+		"/Users/Kiat/Library/Caches/Cleanup At Startup/Transmit/959C0D59-42E0-43B1-9C57-3A6E3B1DE0F8/template.php",
+		"/Users/Kiat/Library/Caches/Cleanup At Startup/Transmit/8E72AC67-B8ED-49EA-92BB-4C476FF426F0/template.php",
+		"/Users/Kiat/Library/Caches/Cleanup At Startup/Transmit/F0A20F6B-C38A-4849-9ECB-527F00A8785E/template.php",
+		"/Users/Kiat/Library/Caches/Cleanup At Startup/Transmit/C6954EA4-2D2F-43CA-A1E2-A29C866CAB5E/template.php",
+		"/Users/Kiat/Library/Caches/Cleanup At Startup/Transmit/6B9DE9A6-640F-4285-961B-DDF7159804BC/template.php",
+		"/Users/Kiat/Library/Caches/Cleanup At Startup/Transmit/97FBA569-DCF8-46BD-877A-2C7C295ED5CE/homepage-aoe.js",
+		"/Users/Kiat/Library/Caches/Cleanup At Startup/Transmit/73EA12E4-F9D5-4806-BF0A-FF25BF96A9FB/global.js",
+		"/Users/Kiat/Library/Caches/Cleanup At Startup/Transmit/9A9794CA-D21D-41F2-BB4C-89B8B5A34715/smu-menu-qtip-override.js",
+		"/Users/Kiat/Library/Caches/Cleanup At Startup/Transmit/82BCBC75-234F-4A2C-B808-CDB90E0331A7/smu-menu-qtip-override.js",
+		"/Volumes/SMU WMT/sites/all/themes/smu/template.php",
+		"/Volumes/SMU WMT/sites/all/themes/smu/js/frontpage.js",
+		"/Volumes/SMU WMT/sites/all/themes/smu/preprocess/preprocess-html.inc",
+		"/Volumes/SMU WMT/sites/all/themes/smu/js/load_top_main_menu.js",
+		"/Volumes/SMU WMT/sites/all/themes/smu/js/events-minical.js",
+		"/Volumes/SMU WMT/sites/all/themes/smu/templates/region--branding.tpl.php",
+		"/Volumes/SMU WMT/sites/all/themes/smu/templates/html.tpl.php",
+		"/Volumes/SMU WMT/sites/all/themes/smu/js/global.js",
+		"/Volumes/SMU WMT/sites/all/themes/smu/js/schools.js",
+		"/Volumes/SMU WMT/sites/all/themes/smu/js/homepage-slider.js",
+		"/Volumes/SMU WMT/sites/all/themes/smu/js/.programmes-compare.js.swp",
+		"/Users/Kiat/Library/Caches/Cleanup At Startup/Transmit/7CAA8D19-4F31-4BF3-9231-117369B72279/smu-menu-switcher.js",
+		"/Users/Kiat/Library/Caches/Cleanup At Startup/Transmit/FAB254D8-E99E-4730-A6E1-B07BD556FAC8/region--branding.tpl.php",
+		"/Users/Kiat/Library/Caches/Cleanup At Startup/Transmit/976B5878-C6F9-4695-9EE6-056C82548788/region--branding.tpl.php",
+		"/Users/Kiat/Library/Caches/Cleanup At Startup/Transmit/D7FB6B07-5808-4DFA-B04A-F7C94F7EFCA1/smu-menu-switcher.js",
+		"/Users/Kiat/Sites/kiat.sg/sites/all/modules/ckeditor/ckfinder/config.php",
+		"/Users/Kiat/Sites/ckfinder/config.php",
+		"/Users/Kiat/Sites/kiat.sg/sites/default/settings.php",
+		"/Users/Kiat/Library/Caches/Cleanup At Startup/Transmit/8446636C-C98F-49DC-A813-2AAFB6526F1F/slider.js",
+		"/Users/Kiat/Library/Caches/Cleanup At Startup/Transmit/D7F8206C-4983-4D50-87EE-B0769EDC1FEE/slider.js",
+		"/Users/Kiat/Library/Caches/Cleanup At Startup/Transmit/4BD13293-901A-402B-8193-1130FC9254B9/smu-mobile-menu.js",
+		"/Users/Kiat/Desktop/balsamiq.txt",
+		"/Users/Kiat/Library/Caches/Cleanup At Startup/Transmit/F2486A36-D369-48B5-A783-1D3449708620/smu-mobile-menu-render.js",
+		"/Users/Kiat/Library/Caches/Cleanup At Startup/Transmit/AB7A7A4D-FB31-405E-9BB3-E8F408FE4C38/general.js",
+		"/Users/Kiat/Library/Caches/Cleanup At Startup/Transmit/3BF7553E-8C3E-456B-977F-14FF9B4194A9/general.js",
+		"/Users/Kiat/Library/Caches/Cleanup At Startup/Transmit/FBD817E5-B038-4470-8B80-D65B253C4A61/general.js",
+		"/Users/Kiat/Library/Caches/Cleanup At Startup/Transmit/CF59CFA9-FF0E-4F24-8B65-E14FAF287FF0/general.js",
+		"/Users/Kiat/Library/Caches/Cleanup At Startup/Transmit/A613D793-FA30-4694-8786-2AF594191543/general.js",
+		"/Users/Kiat/Library/Caches/Cleanup At Startup/Transmit/87DCDC68-5D21-4E9F-A55B-BCC3941FE336/general.js",
+		"/Users/Kiat/Library/Caches/Cleanup At Startup/Transmit/32C59479-373A-44B1-A4D7-06E2CFF71EE1/README",
+		"/Users/Kiat/Library/Caches/Cleanup At Startup/Transmit/57B872B8-D7DE-4292-A093-426D02A1D59B/sites.php",
+		"/Users/Kiat/Library/Caches/Cleanup At Startup/Transmit/7068CFEF-774B-4490-92A8-46840C423D78/settings.php",
+		"/Users/Kiat/Library/Caches/Cleanup At Startup/Transmit/A16ED80A-5A87-46A3-8337-D238D93C7963/settings.php",
+		"/Users/Kiat/Library/Caches/Cleanup At Startup/Transmit/A44BBEAB-79F9-400C-9F40-9E0FAB4E0886/settings.php",
+		"/Users/Kiat/Library/Caches/Cleanup At Startup/Transmit/E68E9D27-52F2-49BD-B26A-BC879129551E/html.tpl.php",
+		"/Users/Kiat/Library/Caches/Cleanup At Startup/Transmit/A0B85BBD-387F-41D1-A9BC-D649692525AA/section.tpl.php",
+		"/Users/Kiat/Library/Caches/Cleanup At Startup/Transmit/87188E21-AD98-4F40-9198-1DDC5742A3BC/section.tpl.php",
+		"/Users/Kiat/Library/Caches/Cleanup At Startup/Transmit/725B27D5-521F-41A2-AA1F-C838C02C7C8B/section--footer.tpl.php",
+		"/Users/Kiat/Library/Caches/Cleanup At Startup/Transmit/38724CF9-F76B-4C1B-B9FB-340432611271/section--header.tpl.php",
+		"/Users/Kiat/Library/Caches/Cleanup At Startup/Transmit/9989AFBB-D4DC-4F27-B964-540EDBCA6DF6/zone--content.tpl.php",
+		"/Users/Kiat/Library/Caches/Cleanup At Startup/Transmit/0283D6B5-E5A6-4D6A-BEA5-1DF9BCB16977/html.tpl.php",
+		"/Users/Kiat/Library/Caches/Cleanup At Startup/Transmit/84B3D1BC-F97B-45D4-9633-30447F880DBE/page.tpl.php",
+		"/Users/Kiat/Desktop/prepaid-promotions.html",
+		"/Users/Kiat/Library/Caches/Cleanup At Startup/Transmit/632BC4F0-E0F9-4771-9EB6-854C78C40823/load.js",
+		"/Users/Kiat/Library/Caches/Cleanup At Startup/Transmit/6723AA4E-A17A-41E7-A13D-73ADED4E2EAA/googleanalytics.js",
+		"/Users/Kiat/Library/Caches/Cleanup At Startup/Transmit/229AC989-88A3-4BA8-8936-C114DEBE0EA1/google_analytics_et_example.module",
+		"/Users/Kiat/Sites/spss.com.sg/sites/all/themes/spssat/spssat.info",
+		"/Users/Kiat/Sites/singtel/sg/sites/personal/settings.php",
+		"/Users/Kiat/Sites/drupal-6.26/.htaccess",
+		"/Users/Kiat/Library/Caches/Cleanup At Startup/Transmit/E2113A46-9B69-4E33-B534-E89489E23FC3/.htaccess",
+		"/Users/Kiat/Desktop/googleanalytics_keming.js",
+		"/Users/Kiat/Library/Caches/Cleanup At Startup/Transmit/831C169C-83F3-458C-BAE0-7896AB55BC5C/googleanalytics.module",
+		"/Users/Kiat/Library/Caches/Cleanup At Startup/Transmit/5AA2BDCA-7A73-4512-B3CD-E8E6ED565766/.htaccess",
+		"/Users/Kiat/Library/Caches/Cleanup At Startup/Transmit/F8A5A07F-2633-4470-9B7B-8C12FCF1B8E1/README.txt",
+		"/Users/Kiat/Library/Caches/Cleanup At Startup/Transmit/E865A3F6-BBBA-47D0-9279-52459932DE66/biblio_style_smu.inc",
+		"/Users/Kiat/Library/Caches/Cleanup At Startup/Transmit/447931C4-C90D-46B0-B552-274437914039/biblio_style_smu.inc",
+		"/Users/Kiat/Library/Caches/Cleanup At Startup/Transmit/57B79E3E-F182-473D-93B7-52A4C99FE623/.htaccess",
+		"/Users/Kiat/Library/Caches/Cleanup At Startup/Transmit/80A762E9-0749-4A5F-8EB7-9B48C2E99656/sites.php",
+		"/Users/Kiat/Library/Caches/Cleanup At Startup/Transmit/A407CCE1-1575-46B6-B73B-FB852BD517F9/.htaccess",
+		"/Users/Kiat/Library/Caches/Cleanup At Startup/Transmit/81218E4C-777B-41CD-9108-921239C7806E/settings.php",
+		"/Users/Kiat/Library/Caches/Cleanup At Startup/Transmit/9866F091-FE4C-4A91-BB93-017B8D84BA1B/authorized_keys",
+		"/Volumes/Singtel D7 Dev/public_html/sg/sites/all/modules/custom_breadcrumbs/custom_breadcrumbs_paths/custom_breadcrumbs_paths.module",
+		"/Users/Kiat/Dropbox/SMU NextWeb/Research Publications/bibtex_Works-in-Progress_1.bib",
+		"/Users/Kiat/Sites/singtel/sg/sites/sites.php",
+		"/Volumes/SMU Nextweb Dev/public_html/sites/all/themes/smu/js/frontpage.js",
+		"/Volumes/SMU Nextweb Dev/public_html/sites/all/themes/smu/js/global.js",
+		"/Users/Kiat/Library/Caches/Cleanup At Startup/Transmit/C83D8F07-D72B-4B00-AB81-19E6CA2C4F28/ssl_error_log",
+		"/Users/Kiat/Library/Caches/Cleanup At Startup/Transmit/505B1E15-2710-4984-8C1E-3329CFFB32C3/httpd.conf",
+		"/Users/Kiat/Library/Caches/Cleanup At Startup/Transmit/0C6C0310-BEFD-4B61-A64F-190F42304B3E/sites.php",
+		"/Users/Kiat/Library/Caches/Cleanup At Startup/Transmit/1DCD78F6-8F68-4A7D-B21B-FD43AAEE790B/my.cnf",
+		"/Users/Kiat/Library/Caches/Cleanup At Startup/Transmit/C95660D7-D53D-4A25-8129-8CAEC73C37FC/authorized_keys2",
+		"/Users/Kiat/Library/Caches/Cleanup At Startup/Transmit/5B6C7E4A-361C-43C2-946B-ADA2F7024370/authorized_keys",
+		"/Users/Kiat/Sites/authorized_keys",
+		"/Users/Kiat/Library/Caches/Coda 2/0AADEEDF-C344-452C-8E48-48798C6FC08E/global.js",
+		"/Users/Kiat/Library/Caches/Cleanup At Startup/Transmit/553EB7DD-5809-41E9-B66D-B508E9996A14/index.php",
+		"/Users/Kiat/Library/Caches/Cleanup At Startup/Transmit/B50F7463-708D-440F-82B1-88C62DC62FE3/settings.php",
+		"/Users/Kiat/Library/Caches/Cleanup At Startup/Transmit/CE776DA3-AECB-4C09-BA47-7BA5BF86CEF2/settings.php",
+		"/Users/Kiat/Library/Caches/Cleanup At Startup/Transmit/AEFAAD59-A144-47F5-BA33-0BC8B9ED6972/schools.js",
+		"/Users/Kiat/Sites/smu.edu.sg/sites/all/themes/smu/backup/schools.js",
+		"/Users/Kiat/Library/Caches/Cleanup At Startup/Transmit/1AE69966-3F5B-4380-B222-6B1682233348/schools.js",
+		"/Users/Kiat/Sites/singtel/business/sites/all/modules/views_slideshow/theme/views-slideshow-controls-text-next.tpl.php",
+		"/Users/Kiat/Library/Caches/Cleanup At Startup/Transmit/7D11EDFC-119E-436C-9D99-5485CED490AB/settings.php",
+		"/Users/Kiat/Library/Caches/Cleanup At Startup/Transmit/3284603D-2DCB-4AAA-9662-F951D95F26D9/settings.php",
+		"/Users/Kiat/Library/Caches/Cleanup At Startup/Transmit/6CD5262D-3A8A-438F-9307-1BCDCBCC86DA/sites.php",
+		"/Users/Kiat/Library/Caches/Cleanup At Startup/Transmit/3C67222F-B433-4A90-A1E1-06000520C731/settings.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"images/",
+			"(images/",
+			"../themes/standard/",
+			"#tabgrp",
+			"#whole",
+			"> ",
+			" id=\"qbo_tab........\"",
+			"id=\"qbo_tab........\">",
+			"h3",
+			"event",
+			"style=background-color:#e5e5e5",
+			"&nbsp;",
+			"<ul>\n	<li>\n		&nbsp;</li>\n	<li>\n		Logic of testing for mean differences</li>\n	<li>\n		&nbsp; &nbsp; &nbsp; &nbsp;Comparing two groups: review of t-test</li>\n	<li>\n		&nbsp; &nbsp; &nbsp; &nbsp;Comparing more than two groups: ANOVA</li>\n	<li>\n		&nbsp; &nbsp; &nbsp; &nbsp;Examining the data</li>\n	<li>\n		&nbsp; &nbsp; &nbsp; &nbsp;Hypothesis testing and assumptions</li>\n	<li>\n		&nbsp; &nbsp; &nbsp; &nbsp;One-way Analysis of Variance (ANOVA)</li>\n	<li>\n		&nbsp; &nbsp; &nbsp; &nbsp;Multi-way univariate ANOVA</li>\n	<li>\n		&nbsp; &nbsp; &nbsp; &nbsp;Multi-way multivariate ANOVA (MANOVA)</li>\n	<li>\n		&nbsp; &nbsp; &nbsp; &nbsp;Nonparametric (distribution free) alternatives</li>\n	<li>\n		&nbsp; &nbsp; &nbsp; &nbsp;Post hoc testing and planned comparisons</li>\n	<li>\n		&nbsp; &nbsp; &nbsp; &nbsp;Graphing the results</li>\n	<li>\n		&nbsp; &nbsp; &nbsp; &nbsp;Review of multiple linear regression</li>\n	<li>\n		&nbsp; &nbsp; &nbsp; &nbsp;Influential points and multicollinearity</li>\n	<li>\n		&nbsp; &nbsp; &nbsp; &nbsp;Including categorical predictors in regression models via dummy variables</li>\n	<li>\n		&nbsp; &nbsp; &nbsp; &nbsp;Running logistic regression in IBM SPSS Statistics</li>\n	<li>\n		&nbsp; &nbsp; &nbsp; &nbsp;ROC curves</li>\n	<li>\n		&nbsp; &nbsp; &nbsp; &nbsp;Interpreting logistic regression output</li>\n	<li>\n		&nbsp; &nbsp; &nbsp; &nbsp;Repeated measures ANOVA</li>\n</ul>\n&nbsp;",
+			"&nbsp; &nbsp; &nbsp; ",
+			"alt=\"\"",
+			"style=\"\"",
+			"typeof=\"foaf:Image\"",
+			"ini",
+			"SCHOOL OF LAW",
+			"2016",
+			"name for",
+			"max_allowed_packet"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 277.0,
+	"status_bar_visible": true
+}
